@@ -20,3 +20,4 @@ The purpose of this lesson is javascript basics 101.  Introducing this in a cras
 - operators slides
 - console object explanation
 
+
